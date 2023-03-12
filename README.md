@@ -22,8 +22,7 @@
    ### Mobile
     > Android > Flutter > Kotlin
 ## 🌱 Latest Content :octocat:
-  
-   [This is an external link to genome.gov](https://github.com/ufanodev/arc-mcia)/)
+   [MCIA first: the contract](https://github.com/ufanodev/arc-mcia)/)
    
     
   
