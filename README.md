@@ -26,7 +26,7 @@
    ### Mobile
     > Android > Flutter > Kotlin
 ## 🌱 Latest Content ![image](https://user-images.githubusercontent.com/87980945/224565779-0b8d9063-d4c4-4083-b73d-02f34f1051a0.png)
-    [Google](http://google.com/)
+   [This is an external link to genome.gov](https://www.genome.gov/)
      
     
    
