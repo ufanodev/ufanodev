@@ -10,8 +10,7 @@
     🎮Videogames, 📺Series, 🎥Films, 🏆Sports, 🌍News 😎Sunny days
 ## Interested on   
   ### Languajes
-    👴Pascal 🖳C ![image](https://user-images.githubusercontent.com/87980945/224566699-cae791ef-4da7-4d29-9215-68d00891d02a.png)
-Java > JS > Python > Apex
+    👴Pascal, 💾C, ☕Java, 🎇JS, 🐍Python, 🐻Apex,⚡Lightning
   ### Frontend
     > CSS > HTML > JQuery > Bootstrap
   ### Backend 
@@ -23,8 +22,7 @@ Java > JS > Python > Apex
    ### Mobile
     > Android > Flutter > Kotlin
 ## 🌱 Latest Content ![image](https://user-images.githubusercontent.com/87980945/224565779-0b8d9063-d4c4-4083-b73d-02f34f1051a0.png)
-   [This is an external link to genome.gov](https://www.genome.gov/)
-     
+  
     
    
     
