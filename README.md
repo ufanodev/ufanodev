@@ -12,39 +12,22 @@
     > Films
     > Audio books & podcasts
     > News >> Internacional, financial, sports, IT, culture ...
-## Interested on
-   
-   ### Languajes
-    > Pascal
-    > C
-    > Java
-    > JS
-    > Python
-    > Apex
-  
+## Interested on   
+  ### Languajes
+    > Pascal > C > Java > JS > Python > Apex
   ### Frontend
-    > CSS
-    > HTML
-    > JQuery
-    > Bootstrap
-  ### Backend
-    > Java
-    > Python
-    > JS
-    > PHP
+    > CSS > HTML > JQuery > Bootstrap
+  ### Backend 
+    > Java > Python > JS > PHP
   ### Salesforce
-    > Mulesoft
-    > Apex
-    > Lightning
+    > Mulesof > Apex > Lightning
    ### Cloud
-    > AWS
-    > GCP
-    > Azure 
+    > AW > GCP > Azure 
    ### Mobile
-    > Android
-    > Flutter
-    > Kotlin
-
+    > Android > Flutter > Kotlin
+## 🌱 Latest Content ![image](https://user-images.githubusercontent.com/87980945/224565779-0b8d9063-d4c4-4083-b73d-02f34f1051a0.png)
+    [Google](http://google.com/)
+     
     
    
     
