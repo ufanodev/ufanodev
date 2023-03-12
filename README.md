@@ -1,7 +1,8 @@
 # Hi Welcome to Ufano Dev Repositories 🏴‍☠️ 🇪🇸 🇪🇺
 
 ## Hobbies
-    > Videogames color:blue[Mulesoft MCIA](https://github.com/ufanodev/arc-mcia)
+    > Videogames 
+    color:blue[Mulesoft MCIA](https://github.com/ufanodev/arc-mcia)
     > TV Series
     > Films
     > Audio books & podcasts
