@@ -7,14 +7,11 @@
 ![image](https://user-images.githubusercontent.com/87980945/224565450-2b29dc5e-2946-4054-8c04-e7611804bc57.png)
 
 ## Hobbies
-    > Videogames 
-    > TV Series
-    > Films
-    > Audio books & podcasts
-    > News >> Internacional, financial, sports, IT, culture ...
+    🎮Videogames, 📺Series, 🎥Films, 🏆Sports, 🌍News 😎Sunny days
 ## Interested on   
   ### Languajes
-    > Pascal > C > Java > JS > Python > Apex
+    👴Pascal 🖳C ![image](https://user-images.githubusercontent.com/87980945/224566699-cae791ef-4da7-4d29-9215-68d00891d02a.png)
+Java > JS > Python > Apex
   ### Frontend
     > CSS > HTML > JQuery > Bootstrap
   ### Backend 
@@ -36,4 +33,12 @@
 
 <!--
 Update Read.me 1.0.5
+Link
+ [This is an external link to genome.gov](https://www.genome.gov/)
+Cita
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+Listas
+  Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
+  Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.       
+
 -->
