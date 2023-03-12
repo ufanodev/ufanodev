@@ -1,5 +1,6 @@
 # Hi Welcome to Ufano Dev Repositories 🏴‍☠️ 🇪🇸 🇪🇺
-![image](https://user-images.githubusercontent.com/87980945/224565210-fe4b686f-2c5b-4957-9979-a83ef1680988.png)
+![image](https://user-images.githubusercontent.com/87980945/224565210-fe4b686f-2c5b-4957-9979-a83ef1680988.png)![image](https://user-images.githubusercontent.com/87980945/224565322-fd817348-b632-4f5f-989c-de56bc555266.png)
+
 ## Hobbies
     > Videogames 
     > TV Series
