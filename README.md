@@ -1,5 +1,10 @@
 # Hi Welcome to Ufano Dev Repositories 🏴‍☠️ 🇪🇸 🇪🇺
-![image](https://user-images.githubusercontent.com/87980945/224565210-fe4b686f-2c5b-4957-9979-a83ef1680988.png)![image](https://user-images.githubusercontent.com/87980945/224565322-fd817348-b632-4f5f-989c-de56bc555266.png)
+            
+![image](https://user-images.githubusercontent.com/87980945/224565413-b0bb0e66-8ace-492f-925e-cc8269dd0d17.png)
+![image](https://user-images.githubusercontent.com/87980945/224565423-e43be405-3486-4710-9250-a5e05ad7547d.png)
+![image](https://user-images.githubusercontent.com/87980945/224565428-b320364f-c511-494f-8429-5d732e518d48.png)
+![image](https://user-images.githubusercontent.com/87980945/224565437-a2e48b41-21e0-486b-952d-dc2295436588.png)
+![image](https://user-images.githubusercontent.com/87980945/224565450-2b29dc5e-2946-4054-8c04-e7611804bc57.png)
 
 ## Hobbies
     > Videogames 
