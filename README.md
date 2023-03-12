@@ -1,10 +1,49 @@
-### Hi Welcome to Ufano Dev Repositories 🏴‍☠️ 🇪🇸 🇪🇺
+# Hi Welcome to Ufano Dev Repositories 🏴‍☠️ 🇪🇸 🇪🇺
 
-### Interested on
+## Hobbies
+    > Videogames
+    > TV Series
+    > Films
+    > Audio books & podcasts
+    > News >> Internacional, financial, sports, IT, culture ...
+## Interested on
+   
+   ### Languajes
+    > Pascal
+    > C
+    > Java
+    > JS
+    > Python
+    > Apex
   
   ### Frontend
+    > CSS
+    > HTML
+    > JQuery
+    > Bootstrap
   ### Backend
-  ### Arquitecture
+    > Java
+    > Python
+    > JS
+    > PHP
+  ### Salesforce
+    > Mulesoft
+    > Apex
+    > Lightning
+   ### Cloud
+    > AWS
+    > GCP
+    > Azure 
+   ### Mobile
+    > Android
+    > Flutter
+    > Kotlin
+
+    
+   
+    
+  
+  
 
 <!--
 **ufanodev/ufanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
