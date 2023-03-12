@@ -23,7 +23,7 @@
     > Android > Flutter > Kotlin
 ## 🌱 Latest Content :octocat:
   
-    [MCIA first step contract](https://www.genome.gov/)
+   [This is an external link to genome.gov](https://github.com/ufanodev/arc-mcia)/)
    
     
   
@@ -31,8 +31,8 @@
 
 <!--
 Update Read.me 1.0.7
-Link
- [This is an external link to genome.gov](https://github.com/ufanodev/arc-mcia)/)
+Link 
+[This is an external link to genome.gov](https://github.com/ufanodev/arc-mcia)/)
 Cita
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
 Listas
